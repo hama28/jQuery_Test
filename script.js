@@ -25,7 +25,7 @@ $(function() {
     $('.faq-list-item').click(function(){
         var $answer = $(this).find('.answer');
         if($answer.hasClass('open')){
-            $answer.removeClass('opne');
+            $answer.removeClass('open');
             $answer.slideUp();
             $(this).find('span').text('+');
         }else{
