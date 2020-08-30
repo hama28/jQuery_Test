@@ -1,2 +1,2 @@
-# jQuery_Test
- 
+# 『Progate』
+「jQuery」講座
